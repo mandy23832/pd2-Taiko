@@ -1,0 +1,30 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>bgmusic.mp3</file>
+        <file>sound .mp3</file>
+        <file>sound.mp3</file>
+    </qresource>
+    <qresource prefix="/pics">
+        <file>proj.2pic/bg_miss_p2.png</file>
+        <file>2.png</file>
+        <file>bullet_2.png</file>
+        <file>bgh.png</file>
+        <file>heart.png</file>
+        <file>1.gif</file>
+        <file>10.gif</file>
+        <file>11.gif</file>
+        <file>12.png</file>
+        <file>13.gif</file>
+        <file>17.jpg</file>
+        <file>19.png</file>
+        <file>20.png</file>
+        <file>17.png</file>
+        <file>14.jpg</file>
+        <file>bg2.png</file>
+        <file>25.gif</file>
+        <file>target.png</file>
+        <file>32.png</file>
+        <file>33.png</file>
+        <file>bomb.png</file>
+    </qresource>
+</RCC>
